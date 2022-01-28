@@ -1,2 +1,2 @@
-# nauka-program-w
-nauka programów
+# komendy do linuxa
+komendy do linuxa
